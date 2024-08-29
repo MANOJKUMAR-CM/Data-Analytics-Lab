@@ -1,4 +1,5 @@
 # Data Analytics Lab
-Evaluating the results of Machine Learning modeling\n
-Visualization and interpretation of the results\n
-Statistical analysis and model selection\n
+A) Objectives 
+  1. Evaluating the results of Machine Learning modeling
+  2. Visualization and interpretation of the results
+  3. Statistical analysis and model selection
