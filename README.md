@@ -45,3 +45,12 @@ Our primary goals in this lab are to:
   - Data Processing: Pandas, NumPy
   - Visualization: Matplotlib, Seaborn, Plotly
   - Machine Learning: Scikit-learn, rapids
+
+
+## 📧 Contact
+
+If you have questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Name**: Manoj Kumar.CM  
+- **Email**: [manoj.kumar@dsai.iitm.ac.in]  
+- **GitHub Profile**: [Manoj Kumar C M](https://github.com/MANOJKUMAR-CM)
